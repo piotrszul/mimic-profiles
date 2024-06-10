@@ -7,7 +7,7 @@
     "name": "MimicBodysite",
     "title": "MimicBodysite",
     "status": "draft",
-    "date": "2022-09-21T13:59:43-04:00",
+    "date": "2024-06-10T11:41:39-04:00",
     "publisher": "KinD Lab",
     "description": "The bodysite codes for MIMIC",
     "valueSet": "http://mimic.mit.edu/fhir/mimic/ValueSet/mimic-bodysite",
@@ -95,10 +95,10 @@
             "code": "R Wrist Lateral"
         },
         {
-            "code": "Left Femoral"
+            "code": "R Antecube"
         },
         {
-            "code": "R Antecube"
+            "code": "Left Femoral"
         },
         {
             "code": "R Ventricular"
@@ -137,10 +137,10 @@
             "code": "LL Ant Forearm"
         },
         {
-            "code": "Right IJ."
+            "code": "Right above Antecubital"
         },
         {
-            "code": "Right above Antecubital"
+            "code": "Right IJ."
         },
         {
             "code": "RU Ant Forearm Medial"
@@ -302,13 +302,13 @@
             "code": "Right Median Cubital"
         },
         {
+            "code": "L Antecube"
+        },
+        {
             "code": "L Wrist"
         },
         {
             "code": "Left Subclavian"
-        },
-        {
-            "code": "L Antecube"
         },
         {
             "code": "Right Upper Arm"

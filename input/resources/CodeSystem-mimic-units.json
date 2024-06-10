@@ -7,7 +7,7 @@
     "name": "MimicUnits",
     "title": "MimicUnits",
     "status": "draft",
-    "date": "2022-09-21T13:59:43-04:00",
+    "date": "2024-06-10T11:41:39-04:00",
     "publisher": "KinD Lab",
     "description": "The units used throughout MIMIC",
     "valueSet": "http://mimic.mit.edu/fhir/mimic/ValueSet/mimic-units",
@@ -137,13 +137,7 @@
             "code": "mg TID"
         },
         {
-            "code": "drops each eye"
-        },
-        {
             "code": "Iu/0 iu"
-        },
-        {
-            "code": "unit/actuation"
         },
         {
             "code": "18 mg iron"
@@ -359,9 +353,6 @@
             "code": "RING"
         },
         {
-            "code": "TRMT"
-        },
-        {
             "code": "\u00b0F"
         },
         {
@@ -521,10 +512,10 @@
             "code": "vial"
         },
         {
-            "code": "% (0.1 mg/gram)"
+            "code": "mg\\40 mg"
         },
         {
-            "code": "mg\\40 mg"
+            "code": "% (0.1 mg/gram)"
         },
         {
             "code": "mg/24h"
@@ -633,9 +624,6 @@
         },
         {
             "code": "mg\\ 0 mg"
-        },
-        {
-            "code": "mEq/500ml"
         },
         {
             "code": "40"
@@ -791,9 +779,6 @@
             "code": "mcg/hour"
         },
         {
-            "code": "mcg/ kg/ hr"
-        },
-        {
             "code": "log10 copies/mL"
         },
         {
@@ -830,13 +815,13 @@
             "code": "%-1:200,000"
         },
         {
+            "code": "U/mL"
+        },
+        {
             "code": "mg PE"
         },
         {
             "code": "mg-mg"
-        },
-        {
-            "code": "U/mL"
         },
         {
             "code": "BID"
@@ -1295,9 +1280,6 @@
             "code": "Unit"
         },
         {
-            "code": "gram/59 mL"
-        },
-        {
             "code": "lozenges"
         },
         {
@@ -1739,9 +1721,6 @@
             "code": "200 unit"
         },
         {
-            "code": "Milligrams"
-        },
-        {
             "code": "leaf"
         },
         {
@@ -1977,9 +1956,6 @@
         },
         {
             "code": "units"
-        },
-        {
-            "code": "mg/mL (2 %)"
         },
         {
             "code": "PATCHES"

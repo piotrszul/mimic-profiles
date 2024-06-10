@@ -7,7 +7,7 @@
     "name": "MimicMicrobiologyTest",
     "title": "MimicMicrobiologyTest",
     "status": "draft",
-    "date": "2022-09-21T13:59:43-04:00",
+    "date": "2024-06-10T11:41:39-04:00",
     "publisher": "KinD Lab",
     "description": "The microbiology test completed in MIMIC",
     "valueSet": "http://mimic.mit.edu/fhir/mimic/ValueSet/mimic-microbiology-test",
@@ -480,10 +480,6 @@
         {
             "code": "90097",
             "display": "R/O GROUP B BETA STREP"
-        },
-        {
-            "code": "90200",
-            "display": "STAT OR Gram Stain"
         },
         {
             "code": "90067",
